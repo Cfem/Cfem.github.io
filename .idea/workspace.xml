@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="008212d2-010d-4df2-8694-6a317b8fba85" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/contact-us/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact-us/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact-us/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/home/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/our-apps/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/privacy-policy/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites.google.com/view/xwekta/contact-us.html" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,20 +20,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="1956" selection-start-line="3" selection-start-column="1956" selection-end-line="3" selection-end-column="1956" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/contact-us/index.html">
+        <entry file="file://$PROJECT_DIR$/html/contact-us.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="374">
-              <caret line="22" column="10930" selection-start-line="22" selection-start-column="10930" selection-end-line="22" selection-end-column="10930" />
+              <caret line="22" column="12689" selection-start-line="22" selection-start-column="12689" selection-end-line="22" selection-end-column="12689" />
             </state>
           </provider>
         </entry>
@@ -39,9 +34,9 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>css</find>
-      <find>xwekta/home</find>
       <find>../../www.gstatic.com/_/atari/_/ss/k%3datari.vw.3C_x3g_LOak.L.X.O/d%3d1/rs%3dAGEqA5klU8OT2yI-aYtqFxJRJSZl9mPqXg.css</find>
       <find>../../www.gstatic.com/_/atari/_/ss/k%3datari.vw.3C_x3g_LOak.L.X.O/d%3d1/rs%3dAGEqA5klU8OT2yI-aYtqFxJRJSZl9mPqXg.c</find>
+      <find>xwekta/home</find>
       <find>Main.css</find>
     </findStrings>
   </component>
@@ -57,6 +52,7 @@
         <option value="$PROJECT_DIR$/privacy-policy/privacy-policy.html" />
         <option value="$PROJECT_DIR$/contact-us/contact-us.html" />
         <option value="$PROJECT_DIR$/contact-us/index.html" />
+        <option value="$PROJECT_DIR$/html/contact-us.html" />
       </list>
     </option>
   </component>
@@ -92,27 +88,7 @@
             <path>
               <item name="xwekta_site2" type="b2602c69:ProjectViewProjectNode" />
               <item name="xwekta_site2" type="462c0819:PsiDirectoryNode" />
-              <item name="contact-us" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="xwekta_site2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="xwekta_site2" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="xwekta_site2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="xwekta_site2" type="462c0819:PsiDirectoryNode" />
-              <item name="home" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="xwekta_site2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="xwekta_site2" type="462c0819:PsiDirectoryNode" />
-              <item name="our-apps" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="xwekta_site2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="xwekta_site2" type="462c0819:PsiDirectoryNode" />
-              <item name="privacy-policy" type="462c0819:PsiDirectoryNode" />
+              <item name="html" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -260,13 +236,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="1956" selection-start-line="3" selection-start-column="1956" selection-end-line="3" selection-end-column="1956" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/home/index.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -274,6 +243,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
           <caret line="22" column="10930" selection-start-line="22" selection-start-column="10930" selection-end-line="22" selection-end-column="10930" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="1956" selection-start-line="3" selection-start-column="1956" selection-end-line="3" selection-end-column="1956" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/contact-us.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="12689" selection-start-line="22" selection-start-column="12689" selection-end-line="22" selection-end-column="12689" />
         </state>
       </provider>
     </entry>
