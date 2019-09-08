@@ -1,0 +1,3 @@
+﻿google.com, pub-1915067817040602, DIRECT, f088c47fec942fa0
+contact=xwekta@gmail.com
+contact=http://www.xwekta.cf/contact-us
